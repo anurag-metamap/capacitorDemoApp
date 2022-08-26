@@ -5,6 +5,9 @@ const config: CapacitorConfig = {
   bundledWebRuntime: false,
   npmClient: "npm",
   webDir: "www",
+  ios: {
+    minVersion: "12.0"
+  }
 };
 
 export default config;

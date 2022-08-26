@@ -56,5 +56,17 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<true/>
+	<key>NSCameraUsageDescription</key>
+    <string>MetaMap verification SDK requires camera use</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>MetaMap verification SDK requires microphone use</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>MetaMap verification SDK requires access to media library</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>MetaMap will use your location information to provide best possible verification experience.</string>
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>MetaMap will use your location information to provide best possible verification experience.</string>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>MetaMap will use your location information to provide best possible verification experience.</string>
 </dict>
 </plist>
